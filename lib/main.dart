@@ -102,7 +102,7 @@ class HomePage extends StatelessWidget {
                         decoration: BoxDecoration(
                           image: const DecorationImage(
                             image: AssetImage(
-                              'images/kk.png'
+                              'images/icy.jpg'
                             ),
                             fit: BoxFit.cover
                           ),
